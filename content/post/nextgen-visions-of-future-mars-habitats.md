@@ -14,8 +14,8 @@ categories = ["Austrian Space Forum"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = ""
-caption = ""
+image = "cover-image-nextgen-visions-of-future-mars-habitats.jpg"
+caption = "By Rixshana Simson"
 preview = true
 
 +++
