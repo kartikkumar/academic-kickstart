@@ -55,7 +55,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Kartik Kumar"
-  role = "Co-founder & CEO at satsearch.co"
+  role = "Co-founder at satsearch.co"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
