@@ -28,7 +28,7 @@ weight = 5
   year = 2008
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "BSc in Aerospace Engineering"
   institution = "Delft University of Technology"
   year = 2005
 
