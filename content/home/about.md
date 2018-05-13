@@ -10,31 +10,34 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Space Engineering",
+    "Planetary Science",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Open-Source"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD candidate in Aerospace Engineering"
+  institution = "Delft University of Technology"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSc in Aerospace Engineering"
+  institution = "Delft University of Technology"
+  year = 2008
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  institution = "Delft University of Technology"
+  year = 2005
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Aerospace Engineer and Planetary Scientist by training. I've worked on a variety of research projects, ranging from the design of space missions to the modeling and simulation of planetary rings. In 2010, I initiated an on-going, open-source project, to develop a toolbox for astrodynamics simulations [Tudat](https://github.com/tudat "Tudat"). I'm currently working towards finalizing my PhD in Aerospace Engineering, studying the mysterious dynamics of Uranus' outer ring system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I worked as an Experienced Researcher within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal. I am an Analog Astronaut for the Austrian Space Forum, and I've participated in Mars simulation missions.
+
+I'm also co-founder at [satsearch](https://satsearch.co "satsearch"). Our mission is to democratize access to the global space supply chain, by indexing all of the products and services offered by suppliers worldwide. By building a knowledge graph on top of the supply chain, we're opening up the opportunity to employ advanced algorithms to support complex systems engineering and procurement for the next generation of space missions.
