@@ -233,6 +233,11 @@ enableGitInfo = true
     icon_pack = "fa"
     link = "//twitter.com/karkum84"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/kumarkartik"
+
 #  [[params.social]]
 #    icon = "google-scholar"
 #    icon_pack = "ai"
