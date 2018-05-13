@@ -38,6 +38,4 @@ weight = 5
 
 I am an Aerospace Engineer and Planetary Scientist by training. I've worked on a variety of research projects, ranging from the design of space missions to the modeling and simulation of planetary rings. In 2010, I initiated an on-going, open-source project, to develop a toolbox for astrodynamics simulations [Tudat](https://github.com/tudat "Tudat"). I'm currently working towards finalizing my PhD in Aerospace Engineering, studying the mysterious dynamics of Uranus' outer ring system.
 
-I worked as an Experienced Researcher within the Stardust network (EC FP7 Marie Curie ITN), leading projects to develop and design technologies for active debris removal. I am an Analog Astronaut for the Austrian Space Forum, and I've participated in Mars simulation missions.
-
 I'm also co-founder at [satsearch](https://satsearch.co "satsearch"). Our mission is to democratize access to the global space supply chain, by indexing all of the products and services offered by suppliers worldwide. By building a knowledge graph on top of the supply chain, we're opening up the opportunity to employ advanced algorithms to support complex systems engineering and procurement for the next generation of space missions.
