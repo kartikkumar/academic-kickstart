@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD candidate in Aerospace Engineering"
-  institution = Delft University of Technology"
+  institution = "Delft University of Technology"
   year = 20189
 
 [[education.courses]]
